@@ -6,5 +6,5 @@ Will use third-party API to fetch information about Space news!
 ##First bot written, expect errors/glitches
 
 Source:
-https://discordjs.guide/#before-you-begin
-https://spaceflightnewsapi.net
+- https://discordjs.guide/#before-you-begin
+- https://spaceflightnewsapi.net
