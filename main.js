@@ -19,7 +19,7 @@ for (const file of commandFiles) {
 }
 
 client.once("ready", () => {
-  console.log("READY");
+  console.log("SPACEBOT IS READY");
 });
 
 client.on("interactionCreate", async (interaction) => {
